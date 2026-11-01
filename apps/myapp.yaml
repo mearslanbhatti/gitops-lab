@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<YOUR_USER>/gitops-lab.git
+    repoURL: https://github.com/mearslanbhatti/gitops-lab.git
     targetRevision: main
     path: charts/myapp
   destination:
