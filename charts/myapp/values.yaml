@@ -1,0 +1,4 @@
+replicaCount: 2
+image:
+  repository: quay.io/brancz/prometheus-example-app
+  tag: v0.3.0
